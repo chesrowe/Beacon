@@ -4,6 +4,7 @@
   "name": "Beacon",
   "resources": [
     {"id":{"name":"__beacon","path":"scripts/__beacon/__beacon.yy",},"order":0,},
+    {"id":{"name":"__beaconSystem","path":"scripts/__beaconSystem/__beaconSystem.yy",},"order":1,},
     {"id":{"name":"rm_testRoom","path":"rooms/rm_testRoom/rm_testRoom.yy",},"order":1,},
   ],
   "Options": [
