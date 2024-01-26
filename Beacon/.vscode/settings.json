@@ -1,0 +1,7 @@
+{
+    "stitch.diagnostics.suppressGroups": [
+        "Beacon",
+        "__Libraries",
+        "Beacon.yyp"
+    ]
+}
