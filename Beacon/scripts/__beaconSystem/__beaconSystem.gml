@@ -18,7 +18,7 @@ function __beacon_init(){
 time_source_start(global.__beaconInitTimeSource);
 
 /// @desc Sorts the event row in the grid to ensure all `0`s are at the end
-/// @param {number} eventIndex The index of the event row to sort
+/// @param {real} eventIndex The index of the event row to sort
 function __beacon_event_compact(_eventIndex){
     var _subscribers = [];
     var _a = 1; // Start from 1 since 0 is the event name

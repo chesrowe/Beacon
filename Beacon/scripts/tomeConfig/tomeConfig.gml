@@ -27,4 +27,4 @@
 // Instead of pushing files directly to Github, instead copy them to a local directory to be pushed manually 
 #macro TOME_LOCAL_REPO_MODE true
 
-#macro TOME_LOCAL_REPO_PATH "C:\Github\CataSite\Beacon-Docs"
+#macro TOME_LOCAL_REPO_PATH "E:/Github/GMAutoDocTest/Beacon-Docs/"

@@ -1,0 +1,1 @@
+beacon_event_unsubscribe_by_prefix("testEvent");

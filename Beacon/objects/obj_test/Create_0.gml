@@ -1,9 +1,11 @@
-//if (irandom(1)){
-//	beacon_event_subscribe("testEvent", function(_event, _data){
-//		show_message(_event + " " + _data);	
-//	});
-//}
+beacon_event_subscribe("testEvent1", function(){
+	show_debug_message("TestEvent1");	
+});
 
-beacon_event_subscribe_temp("testEvent", function(event, data){
-    show_message(event + " " + data);
-}, 2);
+beacon_event_subscribe("testEvent2", function(){
+	show_debug_message("TestEvent2");	
+});
+
+beacon_event_subscribe("testEvent3", function(){
+	show_debug_message("TestEvent3");	
+});

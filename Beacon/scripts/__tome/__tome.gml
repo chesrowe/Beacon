@@ -6,7 +6,8 @@
 /// @desc adds a script to be parsed as a page to your site
 /// @param {asset.GMScript} script The script to add
 function tome_add_script(_script){
-	var _scriptName = script_get_name(_script);
+	//var _scriptName = script_get_name(_script);
+	var _scriptName = _script;
 	var _filePath = __tome_file_project_get_directory() + string("scripts/{0}/{0}.gml", _scriptName, _scriptName);
 	array_push(global.__tomeFileArray, _filePath);
 }

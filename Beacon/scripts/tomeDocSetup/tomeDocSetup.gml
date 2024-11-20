@@ -11,6 +11,9 @@ global.__tomeNavbarItemsArray = [];
 /*
 	Add all the files you wish to be parsed here!
 	                                              */
+												  
+tome_add_script("__beacon");												  
+												  
 tome_set_site_description("Documentation");
 tome_set_site_name("Documentation");
 tome_set_site_latest_version("1.0");

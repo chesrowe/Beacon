@@ -38,10 +38,10 @@
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"__Libraries","folderPath":"folders/__Libraries.yy","order":4,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Beacon","folderPath":"folders/Beacon.yy","order":3,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Beacon.yyp","folderPath":"folders/Beacon.yyp.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tome","folderPath":"folders/__Libraries/Tome.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"_system","folderPath":"folders/__Libraries/Tome/_system.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Beacon","folderPath":"folders/Beacon.yy","order":3,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Beacon.yyp","folderPath":"folders/Beacon.yyp.yy","order":0,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
